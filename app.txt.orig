@@ -1,6 +1,8 @@
 first app
 changes in develop
+<<<<<<< HEAD
 hotfix applied
+=======
 module1 in feature1
 module2 in feature1
-bug fix1
+>>>>>>> feature1
