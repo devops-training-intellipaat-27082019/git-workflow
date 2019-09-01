@@ -1,3 +1,4 @@
 first app
 changes in develop
 module1 for future in feature2
+module2 in feature2
