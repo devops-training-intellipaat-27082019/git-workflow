@@ -4,3 +4,4 @@ hotfix applied
 module1 in feature1
 module2 in feature1
 bug fix1
+bug fix2
