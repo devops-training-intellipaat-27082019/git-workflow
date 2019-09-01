@@ -6,3 +6,5 @@ module2 in feature1
 bug fix1
 bug fix2
 module3 in feature1
+module1 for future in feature2
+module2 in feature2
